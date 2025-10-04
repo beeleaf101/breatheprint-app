@@ -19,7 +19,7 @@ function App() {
         <Route path="/profile" element={<Profile />} />
         <Route path="/weather" element={<Weather />} />
         <Route path="/nasa-earth" element={<NASAEarthData />} />
-        
+
       </Routes>
     </Router>
   );
